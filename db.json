@@ -1,0 +1,151 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Sultan",
+            "alamat": "Jakarta",
+            "umur": 24,
+            "nohp": "089990912920"
+        },
+        {
+            "id": 2,
+            "name": "Udin",
+            "alamat": "Malang",
+            "umur": 29,
+            "nohp": "089980997900"
+        },
+        {
+            "id": 3,
+            "name": "Ogen",
+            "alamat": "Jepara",
+            "umur": 33,
+            "nohp": "089919029011"
+        },
+        {
+            "id": 4,
+            "name": "Jamal",
+            "alamat": "Jakarta",
+            "umur": 24,
+            "nohp": "089990912920"
+        },
+        {
+            "id": 5,
+            "name": "Udin",
+            "alamat": "Malang",
+            "umur": 29,
+            "nohp": "089980997900"
+        },
+        {
+            "id": 6,
+            "name": "Ogen",
+            "alamat": "Jepara",
+            "umur": 33,
+            "nohp": "089919029011"
+        },
+        {
+            "id": 7,
+            "name": "Jamal",
+            "alamat": "Jakarta",
+            "umur": 24,
+            "nohp": "089990912920"
+        },
+        {
+            "id": 8,
+            "name": "Udin",
+            "alamat": "Malang",
+            "umur": 29,
+            "nohp": "089980997900"
+        },
+        {
+            "id": 9,
+            "name": "Ogen",
+            "alamat": "Jepara",
+            "umur": 33,
+            "nohp": "089919029011"
+        },
+        {
+            "id": 10,
+            "name": "Jamal",
+            "alamat": "Jakarta",
+            "umur": 24,
+            "nohp": "089990912920"
+        },
+        {
+            "id": 20,
+            "name": "Udin",
+            "alamat": "Malang",
+            "umur": 29,
+            "nohp": "089980997900"
+        },
+        {
+            "id": 31,
+            "name": "Ogen",
+            "alamat": "Jepara",
+            "umur": 33,
+            "nohp": "089919029011"
+        },
+        {
+            "id": 51,
+            "name": "Jamal",
+            "alamat": "Jakarta",
+            "umur": 24,
+            "nohp": "089990912920"
+        },
+        {
+            "id": 25,
+            "name": "Udin",
+            "alamat": "Malang",
+            "umur": 29,
+            "nohp": "089980997900"
+        },
+        {
+            "id": 35,
+            "name": "Ogen",
+            "alamat": "Jepara",
+            "umur": 33,
+            "nohp": "089919029011"
+        },
+        {
+            "id": 18,
+            "name": "Jamal",
+            "alamat": "Jakarta",
+            "umur": 24,
+            "nohp": "089990912920"
+        },
+        {
+            "id": 28,
+            "name": "Udin",
+            "alamat": "Malang",
+            "umur": 29,
+            "nohp": "089980997900"
+        },
+        {
+            "id": 38,
+            "name": "Ogen",
+            "alamat": "Jepara",
+            "umur": 33,
+            "nohp": "089919029011"
+        },
+        {
+            "id": 19,
+            "name": "Jamal",
+            "alamat": "Jakarta",
+            "umur": 24,
+            "nohp": "089990912920"
+        },
+        {
+            "id": 29,
+            "name": "Udin",
+            "alamat": "Malang",
+            "umur": 29,
+            "nohp": "089980997900"
+        },
+        {
+            "id": 39,
+            "name": "Ogen",
+            "alamat": "Jepara",
+            "umur": 33,
+            "nohp": "089919029011"
+        }
+    ]
+}
